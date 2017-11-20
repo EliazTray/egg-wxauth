@@ -7,6 +7,10 @@
     "egg-bin": "^4.3.5",
     "egg-mock": "^3.13.1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/EliazTray/egg-wxauth.git"
+  },
   "keywords": [
     "egg",
     "egg-plugin",
