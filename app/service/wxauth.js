@@ -49,7 +49,7 @@ module.exports = app => {
     }
     // 根据access_token接口的返回的token和userId,去获取用户的具体信息(在微信的dataBase中)
     * getUserInfo() {
-      const data = await this.getAccessToken()
+      const data = yield this.getAccessToken()
       if (data) {
         const { access_token, openid } = data
         // 获取微信的用户数据
