@@ -1,6 +1,6 @@
 {
   "name": "egg-wxauth",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "an egg.js plugin for `weixin` Auth2.",
   "devDependencies": {
     "egg": "^1.0.0",
