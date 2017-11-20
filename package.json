@@ -1,0 +1,23 @@
+{
+  "name": "egg-wxauth",
+  "version": "1.0.0",
+  "description": "an egg.js plugin for `weixin` Auth2.",
+  "devDependencies": {
+    "egg": "^1.0.0",
+    "egg-bin": "^4.3.5",
+    "egg-mock": "^3.13.1"
+  },
+  "keywords": [
+    "egg",
+    "egg-plugin",
+    "eggPlugin",
+    "egg-plugin-wxauth",
+    "egg-wxauth",
+    "wxauth"
+  ],
+  "eggPlugin": {
+    "name": "wxauth"
+  },
+  "author": "EliazTray",
+  "license": "MIT"
+}
